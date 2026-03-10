@@ -4,3 +4,4 @@ seaborn
 matplotlib
 CurrencyConverter
 cpi
+scikit-learn
