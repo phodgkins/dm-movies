@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-A data mining project that builds a movie recommendation engine using merged IMDb and MovieLens-style movie metadata, ratings, popularity signals, keywords, and genre information. The project combines recommendation modeling, feature engineering, clustering, and visualization to explore how movie similarity and popularity can be used to generate better recommendations. The presentation shows the merged dataset contains about 63,633 movies and includes features such as ratings, votes, runtime, language, keywords, and worldwide gross. :contentReference[oaicite:0]{index=0}
+A data mining project that builds a movie recommendation engine using merged IMDb and MovieLens-style movie metadata, ratings, popularity signals, keywords, and genre information. The project combines recommendation modeling, feature engineering, clustering, and visualization to explore how movie similarity and popularity can be used to generate better recommendations. The presentation shows the merged dataset contains about 63,633 movies and includes features such as ratings, votes, runtime, language, keywords, and worldwide gross.
 
 ## Project Overview
 
